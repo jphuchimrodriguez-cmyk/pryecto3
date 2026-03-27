@@ -1,0 +1,31 @@
+body{
+  background-color:lightBlue;
+  text-align:center;
+}
+h1{
+  color:black;
+  border-style:solid;
+  border-color:steelBlue;
+  border-width:2px;
+  padding:10px;
+}
+a{
+  color: black;
+  font-size: 20px;
+  border-style:solid;
+  border-color:steelBlue;
+  border-width:2px;
+  padding:10px;
+  border-radius:20px;
+}
+p{
+  color:darkblue;
+  word-spacing:10px;
+  font-variant:small-caps;
+  font-size:20px;
+  font-family:roboto;
+}
+.more_about_cartoon{
+  color:darkblue;
+  font-size:18px;
+}
